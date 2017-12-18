@@ -1,0 +1,5 @@
+projet de visualisation de météo en france 
+pour ça j'ai utilisé jfreechart pour visualiser les courbes 
+
+on selectionne une date , on affiche les données de meteo de cette date 
+on dessine les courbes 
